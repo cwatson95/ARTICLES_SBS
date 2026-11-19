@@ -12,8 +12,8 @@ Use the link or your library to get them.
 
 ## SBS experiments, amplifiers and laser-fusion drivers
 
-- A. E. Mironov et al., "Stimulated Brillouin scattering spectral profiles and gain coefficients for laser fusion optical drivers," *APL Photonics* **10**, 126123 (2025). [doi:10.1063/5.0288904](https://doi.org/10.1063/5.0288904) (supplementary material at the same link) — **[PDF](pdfs/Mironov2025_APL_Photonics.pdf)**, CC BY 4.0
-- V. D. Zvorykin, G. E. Metreveli, I. V. Smetanin, A. V. Shutov, N. N. Ustinovskii, and P. V. Veliev, "Nonlinear scattering of 248 nm wavelength light in high-pressure SF6 and CH4 gases for the temporal compression of a 20 ns KrF laser pulse," *Photonics* **11**, 39 (2024). [doi:10.3390/photonics11010039](https://doi.org/10.3390/photonics11010039) — **[PDF](pdfs/Zvorykin2024_Photonics.pdf)**, CC BY 4.0
+- A. E. Mironov et al., "Stimulated Brillouin scattering spectral profiles and gain coefficients for laser fusion optical drivers," *APL Photonics* **10**, 126123 (2025). [doi:10.1063/5.0288904](https://doi.org/10.1063/5.0288904) (supplementary material at the same link) — **[PDF](pdfs/mironov_2025.pdf)**, CC BY 4.0
+- V. D. Zvorykin, G. E. Metreveli, I. V. Smetanin, A. V. Shutov, N. N. Ustinovskii, and P. V. Veliev, "Nonlinear scattering of 248 nm wavelength light in high-pressure SF6 and CH4 gases for the temporal compression of a 20 ns KrF laser pulse," *Photonics* **11**, 39 (2024). [doi:10.3390/photonics11010039](https://doi.org/10.3390/photonics11010039) — **[PDF](pdfs/zvorykin_2024.pdf)**, CC BY 4.0
 - J. Kim et al., "Simultaneous amplification and shaping of excimer lasers using stimulated Brillouin scattering in the strongly damped limit," arXiv:2505.17956. [arxiv.org/abs/2505.17956](https://arxiv.org/abs/2505.17956)
 - H. J. Kong, S. K. Lee, and D. W. Lee, "Beam combined laser fusion driver with high power and high repetition rate using stimulated Brillouin scattering phase conjugation mirrors and self-phase-locking," *Laser Part. Beams* **23**, 55 (2005). [doi:10.1017/S0263034605050111](https://doi.org/10.1017/S0263034605050111)
 - C. B. Dane, W. A. Neuman, and L. A. Hackel, "High-energy SBS pulse compression," *IEEE J. Quantum Electron.* **30**, 1907 (1994). [doi:10.1109/3.301654](https://doi.org/10.1109/3.301654)
@@ -45,8 +45,8 @@ Use the link or your library to get them.
 
 ## Kinetic theory of light scattering
 
-- F. Kogelbauer and I. Karlin, "Exact hydrodynamic manifolds for the linear Boltzmann BGK equation II: spectral closure," *Continuum Mech. Thermodyn.* **37**, 45 (2025). [doi:10.1007/s00161-025-01379-8](https://doi.org/10.1007/s00161-025-01379-8) — **[PDF](pdfs/Kogelbauer2025_CMT.pdf)**, CC BY 4.0
-- F. Kogelbauer and I. Karlin, "Exact hydrodynamic manifolds for the linear Boltzmann BGK equation I: spectral theory," *Continuum Mech. Thermodyn.* **36**, 1685 (2024). [doi:10.1007/s00161-024-01323-2](https://doi.org/10.1007/s00161-024-01323-2) — **[PDF](pdfs/Kogelbauer2024_CMT.pdf)**, CC BY 4.0
+- F. Kogelbauer and I. Karlin, "Exact hydrodynamic manifolds for the linear Boltzmann BGK equation II: spectral closure," *Continuum Mech. Thermodyn.* **37**, 45 (2025). [doi:10.1007/s00161-025-01379-8](https://doi.org/10.1007/s00161-025-01379-8) — **[PDF](pdfs/kogelbauer_2025.pdf)**, CC BY 4.0
+- F. Kogelbauer and I. Karlin, "Exact hydrodynamic manifolds for the linear Boltzmann BGK equation I: spectral theory," *Continuum Mech. Thermodyn.* **36**, 1685 (2024). [doi:10.1007/s00161-024-01323-2](https://doi.org/10.1007/s00161-024-01323-2) — **[PDF](pdfs/kogelbauer_2024.pdf)**, CC BY 4.0
 - J. R. Bonatto and W. Marques Jr., "Kinetic model analysis of light scattering in binary mixtures of monatomic ideal gases," *J. Stat. Mech.* (2005) P09014. [doi:10.1088/1742-5468/2005/09/P09014](https://doi.org/10.1088/1742-5468/2005/09/P09014)
 - H. Struchtrup, "The BGK-model with velocity-dependent collision frequency," *Continuum Mech. Thermodyn.* **9**, 23 (1997). [doi:10.1007/s001610050053](https://doi.org/10.1007/s001610050053)
 - G. Tenti, C. D. Boley, and R. C. Desai, "On the kinetic model description of Rayleigh–Brillouin scattering from molecular gases," *Can. J. Phys.* **52**, 285 (1974). [doi:10.1139/p74-041](https://doi.org/10.1139/p74-041)
@@ -58,7 +58,7 @@ Use the link or your library to get them.
 ## Gas property data
 
 - S. Polychroniadou, K. D. Antoniadis, M. J. Assael, and I. H. Bell, "A reference correlation for the viscosity of krypton from entropy scaling," *Int. J. Thermophys.* **43**, 6 (2022). [doi:10.1007/s10765-021-02927-5](https://doi.org/10.1007/s10765-021-02927-5). Correction: *Int. J. Thermophys.* **47**, 162 (2026), [doi:10.1007/s10765-026-03844-1](https://doi.org/10.1007/s10765-026-03844-1)
-- M. L. Huber, R. A. Perkins, and E. W. Lemmon, "Reference correlation for the viscosity of nitrogen from the triple point to 1000 K and pressures up to 2200 MPa," *Int. J. Thermophys.* **45**, 146 (2024). [doi:10.1007/s10765-024-03440-1](https://doi.org/10.1007/s10765-024-03440-1) — **[PDF](pdfs/Huber2024_N2_viscosity_IJT.pdf)**, CC BY 4.0
+- M. L. Huber, R. A. Perkins, and E. W. Lemmon, "Reference correlation for the viscosity of nitrogen from the triple point to 1000 K and pressures up to 2200 MPa," *Int. J. Thermophys.* **45**, 146 (2024). [doi:10.1007/s10765-024-03440-1](https://doi.org/10.1007/s10765-024-03440-1) — **[PDF](pdfs/huber_2024.pdf)**, CC BY 4.0
 - R. F. Berg and M. R. Moldover, "Recommended viscosities of 11 dilute gases at 25 °C," *J. Phys. Chem. Ref. Data* **41**, 043104 (2012). [doi:10.1063/1.4765368](https://doi.org/10.1063/1.4765368)
 - R. H. Orcutt and R. H. Cole, "Dielectric constants of imperfect gases. III. Atomic gases, hydrogen, and nitrogen," *J. Chem. Phys.* **46**, 697 (1967). [doi:10.1063/1.1840728](https://doi.org/10.1063/1.1840728)
 - A. C. Newell and R. C. Baird, "Absolute determination of refractive indices of gases at 47.7 gigahertz," *J. Appl. Phys.* **36**, 3751 (1965). [doi:10.1063/1.1713942](https://doi.org/10.1063/1.1713942)
